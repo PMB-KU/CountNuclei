@@ -9,6 +9,6 @@ However, because the plugin is developed many years ago, it is no longer maintai
 
 Download Itcn.zip from this Github directory, unzip, and place it under the ImageJ or Fiji plugins folder, restart ImageJ or Fiji. There will be a new Plugins>Itcn menu path.
 
-* How to find ImageJ plugins folder:
-** If you are using ImageJ: open the software and select File>Show Folder>Plugins.
-** If you are using Fiji: open the software, close all images and select Image>Show info... ImageJ home information will appear. Go to that folder and there will be a plugins subfolder.
+* How to find ImageJ plugins folder:  
+  * If you are using ImageJ: open the software and select File>Show Folder>Plugins.  
+  * If you are using Fiji: open the software, close all images and select Image>Show info... ImageJ home information will appear. Go to that folder and there will be a plugins subfolder.
